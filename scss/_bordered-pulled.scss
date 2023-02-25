@@ -1,0 +1,20 @@
+// Bordered & Pulled
+// -------------------------
+
+.#{$oi-css-prefix}-border {
+  border: solid .08em $oi-border-color;
+  border-radius: .1em;
+  padding: .2em .25em .15em;
+}
+
+.#{$oi-css-prefix}-pull-left { float: left; }
+.#{$oi-css-prefix}-pull-right { float: right; }
+
+.#{$oi-css-prefix},
+.ois,
+.oir,
+.oil,
+.oib {
+  &.#{$oi-css-prefix}-pull-left { margin-right: .3em; }
+  &.#{$oi-css-prefix}-pull-right { margin-left: .3em; }
+}

@@ -1,0 +1,37 @@
+// Stacked Icons
+// -------------------------
+
+.#{$oi-css-prefix}-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: ($oi-fw-width*2);
+  transform-origin: center 51%;
+}
+
+.#{$oi-css-prefix}-stack-1x,
+.#{$oi-css-prefix}-stack-2x,
+.#{$oi-css-prefix}-stack-3x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.#{$oi-css-prefix}-stack-1x {
+  line-height: inherit;
+}
+
+.#{$oi-css-prefix}-stack-2x {
+  font-size: 2em;
+}
+
+.#{$oi-css-prefix}-stack-3x {
+  font-size: 3em;
+}
+
+.#{$oi-css-prefix}-inverse {
+  color: $oi-inverse;
+}

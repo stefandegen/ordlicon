@@ -1,0 +1,21 @@
+/*! * Ordlicon 0.1.2 by Stefan Degen - https://stefandegen.me * License - https://stefandegen.me/de/license/free-licence/ (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) */
+ 
+@import 'variables';
+
+@font-face {
+  font-family: 'ordlicon';
+  font-style: normal;
+  font-weight: 400;
+  font-display: $oi-font-display;
+  src: url('#{$oi-font-path}/ordlicon-Regular.eot');
+  src: url('#{$oi-font-path}/ordlicon-Regular.eot?#iefix') format('embedded-opentype'),
+  url('#{$oi-font-path}/ordlicon-Regular.woff2') format('woff2'),
+  url('#{$oi-font-path}/ordlicon-Regular.woff') format('woff'),
+  url('#{$oi-font-path}/ordlicon-Regular.ttf') format('truetype'),
+  url('#{$oi-font-path}/ordlicon-Regular.svg#ordlicon') format('svg');
+}
+
+.oir {
+  font-family: 'ordlicon';
+  font-weight: 400;
+}

@@ -1,0 +1,20 @@
+// Animated Icons
+// --------------------------
+
+.#{$oi-css-prefix}-spin {
+  animation: oi-spin 2s infinite linear;
+}
+
+.#{$oi-css-prefix}-pulse {
+  animation: oi-spin 1s infinite steps(8);
+}
+
+@keyframes oi-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
