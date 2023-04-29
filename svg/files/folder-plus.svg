@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--folder-plus" clip-path="url(#clip_1)">
+    <path d="M12.5 10C12.7761 10 13 10.2239 13 10.5L13 12L14.5 12C14.7761 12 15 12.2239 15 12.5C15 12.7761 14.7761 13 14.5 13L13 13L13 14.5C13 14.7761 12.7761 15 12.5 15C12.2239 15 12 14.7761 12 14.5L12 13L10.5 13C10.2239 13 10 12.7761 10 12.5C10 12.2239 10.2239 12 10.5 12L12 12L12 10.5C12 10.2239 12.2239 10 12.5 10ZM5.58579 2C5.851 2 6.10536 2.10536 6.29289 2.29289L8 4L13.5 4C13.7761 4 14 4.22386 14 4.5L14 9L13 9L13 5L7.58579 5L5.585 3L2 3L2 11L9 11L9 12L1.5 12C1.22386 12 1 11.7761 1 11.5L1 2.5C1 2.22386 1.22386 2 1.5 2L5.58579 2Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="85efebe0-542e-4164-8beb-311874b31724" />
+  </g>
+</svg>
