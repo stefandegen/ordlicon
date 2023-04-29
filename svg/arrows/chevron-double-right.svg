@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--chevron-double-right" clip-path="url(#clip_1)">
+    <path d="M6.96642 2.96645C6.77116 3.16171 6.77116 3.47829 6.96642 3.67355L10.7948 7.50198L6.96642 11.3304C6.77116 11.5257 6.77116 11.8423 6.96642 12.0375C7.16168 12.2328 7.47826 12.2328 7.67353 12.0375L11.8555 7.85553C12.0508 7.66027 12.0508 7.34369 11.8555 7.14843L7.67353 2.96645C7.47826 2.77118 7.16168 2.77118 6.96642 2.96645Z" id="Path-Copy" fill="#000000" fill-rule="evenodd" stroke="none" artboard="25bcc0dd-0fb0-4633-8bde-9455f5b22103" />
+    <path d="M2.96642 2.96645C2.77116 3.16171 2.77116 3.47829 2.96642 3.67355L6.79485 7.50198L2.96642 11.3304C2.77116 11.5257 2.77116 11.8423 2.96642 12.0375C3.16168 12.2328 3.47826 12.2328 3.67353 12.0375L7.85551 7.85553C8.05077 7.66027 8.05077 7.34369 7.85551 7.14843L3.67353 2.96645C3.47826 2.77118 3.16168 2.77118 2.96642 2.96645Z" id="Path-Copy-2" fill="#000000" fill-rule="evenodd" stroke="none" artboard="e26cabe5-8664-400a-b7d8-e3c738d4007c" />
+  </g>
+</svg>

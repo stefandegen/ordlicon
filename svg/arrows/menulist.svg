@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--menulist" clip-path="url(#clip_1)">
+    <path d="M7.85355 4.17752L9.71065 6.15804C9.89952 6.3595 9.88931 6.67591 9.68785 6.86478C9.59518 6.95166 9.47291 7.00001 9.34588 7.00001L5.65411 7.00001C5.37797 7.00001 5.15411 6.77615 5.15411 6.50001C5.15411 6.37298 5.20246 6.25071 5.28935 6.15804L7.13523 4.1891C7.30311 4.01003 7.57177 3.98206 7.77089 4.11071L7.85355 4.17752L7.85355 4.17752Z" id="Triangle" fill="#000000" fill-rule="evenodd" stroke="none" artboard="a8cdc89e-f377-4f4f-babc-3af74d412384" />
+    <path d="M7.85355 10.8225L9.71065 8.84197C9.89952 8.64051 9.88931 8.3241 9.68785 8.13523C9.59518 8.04835 9.47291 8 9.34588 8L5.65411 8C5.37797 8 5.15411 8.22386 5.15411 8.5C5.15411 8.62703 5.20246 8.7493 5.28935 8.84197L7.13523 10.8109C7.30311 10.99 7.57177 11.0179 7.77089 10.8893L7.85355 10.8225L7.85355 10.8225Z" id="Triangle" fill="#000000" fill-rule="evenodd" stroke="none" artboard="1863f0ef-d989-4998-b087-4a01c265655f" />
+  </g>
+</svg>
