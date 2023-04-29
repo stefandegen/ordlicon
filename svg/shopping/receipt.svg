@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--receipt" clip-path="url(#clip_1)">
+    <path d="M11.6283 1.01309L13 2.38609L13 12.627L11.6283 14L10.2525 12.623L8.87584 14L7.5 12.623L6.12337 14L4.74753 12.623L3.3709 14L2 12.627L2 2.38609L3.3709 1.01309L4.74753 2.39011L6.12337 1.01309L7.5 2.39011L8.87584 1.01309L10.2525 2.39011L11.6283 1.01309ZM11.627 2.427L10.2527 3.80473L8.875 2.427L7.5002 3.80473L6.123 2.427L4.74773 3.80473L3.371 2.428L3 2.799L3 12.213L3.371 12.584L4.74773 11.2084L6.123 12.585L7.5002 11.2084L8.875 12.585L10.2527 11.2084L11.627 12.585L12 12.212L12 2.8L11.627 2.427ZM9 9L9 10L4 10L4 9L9 9ZM11 9L11 10L10 10L10 9L11 9ZM11 7L11 8L9 8L9 7L11 7ZM7 7L7 8L4 8L4 7L7 7ZM8 5L8 6L4 6L4 5L8 5ZM11 5L11 6L9 6L9 5L11 5Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="ccd051ee-1f5c-41de-9272-e248878c7416" />
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--credit-card-off" clip-path="url(#clip_1)">
+    <path d="M1.85355 1.14645L13.83 13.12C14.0253 13.3153 14.0253 13.6347 13.83 13.83C13.6347 14.0253 13.3153 14.0253 13.12 13.83L11.29 11.999L1.5 12C1.22386 12 1 11.7761 1 11.5L1 3.5C1 3.22386 1.22386 3 1.5 3L2.292 3L1.14645 1.85355C0.951184 1.65829 0.951184 1.34171 1.14645 1.14645C1.34171 0.951184 1.65829 0.951184 1.85355 1.14645ZM5.10498 2.999L13.5 3C13.7761 3 14 3.22386 14 3.5L14 11.5C14 11.6105 13.9642 11.7125 13.9035 11.7953L13 10.893L13 7L9.10598 6.999L7.10498 4.999L13 5L13 4L6.10498 3.999L5.10498 2.999ZM6.291 6.999L2 7L2 11L10.29 10.999L6.291 6.999ZM7 9L7 10L3 10L3 9L7 9ZM10.106 7.999L12 8L12 9.893L10.106 7.999ZM3.292 4L2 4L2 5L4.292 4.999L3.292 4Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="206940ea-6648-4e68-acdf-e69ec9a98835" />
+  </g>
+</svg>

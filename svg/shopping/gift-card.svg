@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--gift-card" clip-path="url(#clip_1)">
+    <path d="M13.5 3C13.7761 3 14 3.22386 14 3.5L14 11.5C14 11.7761 13.7761 12 13.5 12L1.5 12C1.22386 12 1 11.7761 1 11.5L1 3.5C1 3.22386 1.22386 3 1.5 3L13.5 3ZM8.335 7L2 7L2 11L9 11L9 7.713L7.81 9.32L6.61 9.41L6.7 8.21L8.335 7ZM13 7L10.645 7L12.2807 8.21L12.3707 9.41L11.1707 9.32L10 7.74L10 11L13 11L13 7ZM9 4L2 4L2 6L9 6L9 4ZM13 4L10 4L10 6L13 6L13 4Z" id="Shape" fill="#000000" stroke="none" artboard="5d1f8ec7-2e96-4880-a61a-8690267ec05f" />
+  </g>
+</svg>

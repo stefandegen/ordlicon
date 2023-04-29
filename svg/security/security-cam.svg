@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--security-cam" clip-path="url(#clip_1)">
+    <path d="M3.27706 2.66168L12.8302 5.22143C13.0969 5.2929 13.2552 5.56707 13.1837 5.8338C13.1752 5.8656 13.1635 5.89649 13.149 5.926L11.3409 9.58265C11.2353 9.7963 10.9935 9.90569 10.7633 9.844L7.462 8.95852L7.22595 9.84238L6.259 9.583L5.611 12L2 12L2 13L1 13L1 10L2 10L2 11L4.844 11L5.293 9.324L4.32817 9.06593L4.564 8.18252L1.98296 7.49131C1.71623 7.41984 1.55794 7.14567 1.62941 6.87894L2.66469 3.01523C2.73616 2.7485 3.01033 2.59021 3.27706 2.66168ZM13.676 6.56L14.3522 6.74117L13.5757 9.63895L12.32 9.30249L13.676 6.56ZM3.50119 3.75702L2.72473 6.65479L10.625 8.77168L11.9811 6.02919L3.50119 3.75702Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="c6f2294e-1ce6-4f6a-8f64-c24f2ef68131" />
+  </g>
+</svg>
