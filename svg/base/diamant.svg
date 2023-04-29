@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--diamant" clip-path="url(#clip_1)">
+    <path d="M11.912 2L15 5.5L7.5 14.2L0 5.5L3.088 2L11.912 2ZM9.732 6L5.183 6L7.458 11.684L9.732 6ZM13.246 6L10.701 6L8.15 12L13.246 6ZM4.215 6L1.751 6L6.85027 12L4.215 6ZM5.477 3L3.538 3L1.772 5L4.275 5L5.477 3ZM8.388 3L6.527 3L5.323 5L9.591 5L8.388 3ZM11.461 3L9.439 3L10.641 5L13.225 5L11.461 3Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="05e7c564-bca0-4ca7-9f0d-528b468031e9" />
+  </g>
+</svg>

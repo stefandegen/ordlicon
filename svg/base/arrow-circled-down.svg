@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--arrow-circled-down" clip-path="url(#clip_1)">
+    <path d="M14.1 7.49999C14.1 11.1451 11.1451 14.1 7.5 14.1C3.85492 14.1 0.9 11.1451 0.9 7.49999C0.9 3.85491 3.85492 0.899991 7.5 0.899991C11.1451 0.899991 14.1 3.85491 14.1 7.49999ZM13.1 7.49999C13.1 4.4072 10.5928 1.89999 7.5 1.89999C4.40721 1.89999 1.9 4.4072 1.9 7.49999C1.9 10.5928 4.4072 13.1 7.5 13.1C10.5928 13.1 13.1 10.5928 13.1 7.49999Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="56f7709a-22b1-4019-8ffe-d0d9b0cac8d1" />
+    <path d="M10.24 7.77C10.059 7.58897 9.72102 7.58897 9.54 7.77L8.001 9.426L8 4.5C8 4.22386 7.77614 4 7.5 4C7.22386 4 7 4.22386 7 4.5L7 9.423L5.47 7.77C5.28898 7.58898 4.94102 7.58898 4.76 7.77C4.57898 7.95102 4.54898 8.26898 4.73 8.45L7.14807 10.8642C7.32909 11.0453 7.67416 11.0453 7.85518 10.8642L10.27 8.45C10.451 8.26898 10.421 7.95102 10.24 7.77Z" id="Path" fill="#000000" fill-rule="evenodd" stroke="none" artboard="372ccc9a-b690-4ed8-8d04-b57dadb859ec" />
+  </g>
+</svg>

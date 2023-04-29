@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--brick-minus" clip-path="url(#clip_1)">
+    <path d="M7 4.5C7 4.22386 6.77614 4 6.5 4L4.5 4C4.22386 4 4 4.22386 4 4.5L4 6L3.5 6C3.22386 6 3 6.22386 3 6.5L3 11.5C3 11.7761 3.22386 12 3.5 12L8 12L8 11L4 11L4 7L11 7L11 9L12 9L12 6.5C12 6.22386 11.7761 6 11.5 6L11 6L11 4.5C11 4.22386 10.7761 4 10.5 4L8.5 4C8.22386 4 8 4.22386 8 4.5L8 6L7 6L7 4.5ZM5 5L6 5L6 6L5 6L5 5ZM10 5L9 5L9 6L10 6L10 5ZM14 11.5C14 11.2239 13.7761 11 13.5 11L9.5 11C9.22386 11 9 11.2239 9 11.5C9 11.7761 9.22386 12 9.5 12L13.5 12C13.7761 12 14 11.7761 14 11.5Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="45327f47-1158-4245-b1dd-f0296573da5d" />
+  </g>
+</svg>

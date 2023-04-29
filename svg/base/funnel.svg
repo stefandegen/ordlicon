@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--funnel" clip-path="url(#clip_1)">
+    <path d="M6 8.15385L1.6611 2.81367C1.60041 2.73896 1.56434 2.65383 1.55291 2.55826C1.54148 2.46269 1.55645 2.37145 1.59782 2.28454C1.63918 2.19764 1.70056 2.12848 1.78194 2.07709C1.86332 2.0257 1.95213 2 2.04838 2L12.9516 2C13.0479 2 13.1367 2.0257 13.2181 2.07709C13.2994 2.12848 13.3608 2.19764 13.4022 2.28454C13.4435 2.37145 13.4585 2.46269 13.4471 2.55826C13.4357 2.65383 13.3996 2.73896 13.3389 2.81367L9 8.15385L9 12L7 12.6667L6 13L6 8.15385L6 8.15385ZM7 11.6126L8 11.2792L8 7.79881L11.899 3L3.10097 3L7 7.79881L7 11.6126L7 11.6126Z" id="Vector" fill="#000000" fill-rule="evenodd" stroke="none" artboard="6b154ca2-1f32-4ad8-a13f-1bf1f48e3a98" />
+  </g>
+</svg>
