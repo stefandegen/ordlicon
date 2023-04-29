@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--typo-strikethrough" clip-path="url(#clip_1)">
+    <path d="M5.03271 3L5.032 7L10 7L10 3L11.0327 3L11.032 7L12.5 7C12.7761 7 13 7.22386 13 7.5C13 7.77614 12.7761 8 12.5 8L11.032 8L11.0327 9.95C11.0327 11.5923 9.22315 12.1608 7.6658 12.198L7.5 12.2C5.96329 12.2 4.13124 11.6881 4.00672 10.1219L4 9.95L4 8L2.5 8C2.22386 8 2 7.77614 2 7.5C2 7.22386 2.22386 7 2.5 7L4 7L4 3L5.03271 3ZM9.99998 8L5.03198 8L5.03269 9.83C5.03269 10.7321 5.88065 11.0517 6.70955 11.1551L6.98395 11.182L6.98395 11.182L7.24981 11.196C7.29301 11.1974 7.33556 11.1984 7.3773 11.1991L7.62283 11.1991L7.7508 11.196L7.7508 11.196L8.01844 11.182C8.88481 11.1188 9.89342 10.8601 9.99211 9.97502L9.99998 9.83L9.99998 8Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="771d4d93-0eda-4142-847b-caa195f2806a" />
+  </g>
+</svg>

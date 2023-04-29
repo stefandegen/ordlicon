@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--letter-space" clip-path="url(#clip_1)">
+    <path d="M1.5 9.89999C1.77614 9.89999 2 10.1239 2 10.4L2 12.6C2 12.8761 1.77614 13.1 1.5 13.1C1.22386 13.1 1 12.8761 1 12.6L1 10.4C1 10.1239 1.22386 9.89999 1.5 9.89999ZM13.5 9.89999C13.7761 9.89999 14 10.1239 14 10.4L14 12.6C14 12.8761 13.7761 13.1 13.5 13.1C13.2239 13.1 13 12.8761 13 12.6L13 10.4C13 10.1239 13.2239 9.89999 13.5 9.89999ZM4 11L4 12L3 12L3 11L4 11ZM6 11L6 12L5 12L5 11L6 11ZM8 11L8 12L7 12L7 11L8 11ZM10 11L10 12L9 12L9 11L10 11ZM12 11L12 12L11 12L11 11L12 11ZM11.15 2L11.149 2.01L13.286 9L12.24 9L11.629 7L9.35803 7L8.74703 9L7.70203 9L9.84137 2L11.15 2ZM2.74803 2L4.49403 7.715L6.24103 2L7.28603 2L5.14668 9L3.83803 9L3.83903 8.99L1.70203 2L2.74803 2ZM10.4939 3.285L9.66394 6L11.3239 6L10.4939 3.285Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="a492b6e1-b042-4154-86b9-676e226a797f" />
+  </g>
+</svg>
