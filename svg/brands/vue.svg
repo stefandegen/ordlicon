@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--vue" clip-path="url(#clip_1)">
+    <path d="M1 2L7.5 13L14 2L9 2L7.5 4.65039L6 2L1 2ZM2.75 3L4.63574 3L7.5 8L10.3643 3L12.25 3L7.5 11.0498L2.75 3Z" id="Shape" fill="#000000" stroke="none" artboard="43240534-8f98-4211-b361-fc9b6b70f2bd" />
+  </g>
+</svg>
