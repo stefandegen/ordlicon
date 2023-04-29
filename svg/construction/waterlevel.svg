@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--waterlevel" clip-path="url(#clip_1)">
+    <path d="M0 5L15 5L15 11L0 11L0 5L0 5ZM3 6L1 6L1 10L3 10L3 6L3 6ZM5 6.5C5 6.32468 5.05013 6.15639 5.14225 6L4 6L4 10L11 10L11 6L9.85775 6C9.94987 6.15639 10 6.32468 10 6.5C10 7.32843 8.88071 8 7.5 8C6.11929 8 5 7.32843 5 6.5L5 6.5ZM8.60937 6L6.16839 6C5.99931 6.07995 5.88844 6.18387 5.83578 6.31176C5.81196 6.3696 5.80005 6.43235 5.80005 6.5C5.80005 6.61225 5.91466 6.73714 6.14388 6.87467C6.50536 7.09156 6.95742 7.2 7.50005 7.2C8.46908 7.2 9.02384 7.02942 9.16432 6.68825C9.18814 6.6304 9.20005 6.56766 9.20005 6.5C9.20005 6.38776 9.08544 6.26287 8.85622 6.12534C8.77816 6.0785 8.69588 6.03672 8.60937 6L8.60937 6ZM12 6L14 6L14 10L12 10L12 6L12 6Z" id="Vector" fill="#000000" fill-rule="evenodd" stroke="none" artboard="460e8747-afa1-4e59-b7f0-2ffbcb57d9b6" />
+  </g>
+</svg>

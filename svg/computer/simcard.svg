@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--simcard" clip-path="url(#clip_1)">
+    <path d="M8.78817 2C8.92249 2 9.05116 2.05404 9.14519 2.14995L11.857 4.91582C11.9487 5.00929 12 5.13497 12 5.26587L12 12.5C12 12.7761 11.7761 13 11.5 13L3.5 13C3.22386 13 3 12.7761 3 12.5L3 2.5C3 2.22386 3.22386 2 3.5 2L8.78817 2ZM8.578 3L4 3L4 12L11 12L11 5.47L8.578 3ZM9.5 6C9.77614 6 10 6.22386 10 6.5L10 10.5C10 10.7761 9.77614 11 9.5 11L5.5 11C5.22386 11 5 10.7761 5 10.5L5 6.5C5 6.22386 5.22386 6 5.5 6L9.5 6ZM9.20005 6.8L5.80005 6.8L5.80005 10.2L9.20005 10.2L9.20005 6.8Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" artboard="439134ce-1d34-42e6-b761-c136fddd2375" />
+  </g>
+</svg>
