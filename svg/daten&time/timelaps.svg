@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15" height="15" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="icon--timelaps" clip-path="url(#clip_1)">
+    <path d="M13.1 7.5C13.1 4.40721 10.5928 1.9 7.49999 1.9C4.4072 1.9 1.89999 4.40721 1.89999 7.5C1.89999 10.5928 4.4072 13.1 7.49999 13.1C10.5928 13.1 13.1 10.5928 13.1 7.5ZM2.89999 7.5C2.89999 4.95949 4.95948 2.9 7.49999 2.9C10.0405 2.9 12.1 4.95949 12.1 7.5C12.1 10.0405 10.0405 12.1 7.49999 12.1C4.95948 12.1 2.89999 10.0405 2.89999 7.5ZM11.1 7.5C11.1 5.51211 9.48876 3.90054 7.501 3.9L7.5 7.5L7.492 7.5L7.50117 7.51603L4.47008 9.26603L4.38426 9.30457C5.00737 10.3781 6.16938 11.1 7.5 11.1C9.48822 11.1 11.1 9.48823 11.1 7.5Z" id="Oval-Copy-4-Union" fill="#000000" fill-rule="evenodd" stroke="none" artboard="1cb76582-4f20-4a80-8b79-f24772774b62" />
+  </g>
+</svg>
