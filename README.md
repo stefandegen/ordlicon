@@ -9,6 +9,8 @@ Now I have developed my own icon font. Thanks to the pandemic, I had time to cre
 
 ordlicon is designed for use in applications: Small and clear representation of the icons. The design is independent and the themes are limited. I make the library available to the world for free use under the open-source licence. Download it, extend and change the icons and build great user-centred applications with it. Happy creation!
 
+Ordlicon as Figma Library: https://www.figma.com/community/file/1238951153881634587/ordlicon
+
 
 ## What does the Ordlicon Icon Library offer you?
 CSS framework compatible
